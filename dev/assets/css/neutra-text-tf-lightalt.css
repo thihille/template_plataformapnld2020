@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'NeutraTextTF-LightAlt';
+  src: url('NeutraTextTF-LightAlt.eot');
+  src: url('NeutraTextTF-LightAlt.eot?#iefix') format('embedded-opentype'),
+        url('NeutraTextTF-LightAlt.woff') format('woff'),
+        url('NeutraTextTF-LightAlt.ttf') format('truetype'),
+        url('NeutraTextTF-LightAlt.svg#NeutraTextTF-LightAlt') format('svg'),
+        url('NeutraTextTF-LightAlt.otf')  format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+

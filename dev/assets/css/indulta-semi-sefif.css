@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Indulta SemiSerif';
+    src: url('IndultaSemiSerif.eot');
+    src: url('IndultaSemiSerif.eot?#iefix') format('embedded-opentype'),
+          url('IndultaSemiSerif.woff') format('woff'),
+          url('IndultaSemiSerif.ttf') format('truetype'),
+          url('IndultaSemiSerif.svg#IndultaSemiSerif') format('svg'),
+          url('IndultaSemiSerif.otf')  format('opentype');
+    font-weight: 600;
+    font-style: normal;
+
+}
+

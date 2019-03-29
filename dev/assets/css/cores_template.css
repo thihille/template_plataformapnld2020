@@ -1,0 +1,555 @@
+/*APOEMA*/
+#cabecalho.apoema-arte {
+  background-color: #384a88;
+}
+#cabecalho.apoema-ciencias {
+  background-color: #009881;
+}
+#cabecalho.apoema-geografia {
+  background-color: #79387c;
+}
+#cabecalho.apoema-historia {
+  background-color: #e84153;
+}
+#cabecalho.apoema-matematica {
+  background-color: #00b7d7;
+}
+#cabecalho.apoema-portugues {
+  background-color: #0075bf;
+}
+/*APRENDENDO*/
+#cabecalho.aprendendo-ciencias.aprendendo-6 {
+  background-color: #0678be;
+}
+#cabecalho.aprendendo-ciencias.aprendendo-6 .dis-aprendendo {
+  color: #f07f3b;
+}
+#cabecalho.aprendendo-ciencias.aprendendo-7 {
+  background-color: #e15a3d;
+}
+#cabecalho.aprendendo-ciencias.aprendendo-7 .dis-aprendendo {
+  color: #48bed8;
+}
+#cabecalho.aprendendo-ciencias.aprendendo-8 {
+  background-color: #5c2583;
+}
+#cabecalho.aprendendo-ciencias.aprendendo-8 .dis-aprendendo {
+  color: #f29200;
+}
+#cabecalho.aprendendo-ciencias.aprendendo-9 {
+  background-color: #43358c;
+}
+#cabecalho.aprendendo-ciencias.aprendendo-9 .dis-aprendendo {
+  color: #ea5d41;
+}
+/*Connections*/
+#cabecalho.connections-ingles {
+  background: #580f56; /* Old browsers */
+  background: -moz-linear-gradient(top, #580f56 0%, #580f56 95%, #b092b6 96%, #b092b6 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #580f56 0%,#580f56 95%,#b092b6 96%,#b092b6 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #580f56 0%,#580f56 95%,#b092b6 96%,#b092b6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#580f56', endColorstr='#b092b6',GradientType=0 ); /* IE6-9 */
+}
+#cabecalho.connections-ingles {
+  color: white;
+}
+#cabecalho.connections-ingles.connections-6::before {
+  background: #d60364;
+}
+#cabecalho.connections-ingles.connections-7::before {
+  background: #00a6c0;
+}
+#cabecalho.connections-ingles.connections-8::before {
+  background: #ef7d00;
+}
+#cabecalho.connections-ingles.connections-9::before {
+  background: #cbd000;
+}
+
+/* PRATICANDO */
+#cabecalho.praticando-matematica.praticando-6 {
+  background-color: #975593;
+}
+#cabecalho.praticando-matematica.praticando-6 .dis-praticando {
+  color: #f18700;
+}
+#cabecalho.praticando-matematica.praticando-7 {
+  background-color: #c6cf42;
+}
+#cabecalho.praticando-matematica.praticando-7 .dis-praticando {
+  color: #8f4487;
+}
+#cabecalho.praticando-matematica.praticando-8 {
+  background-color: #0082c0;
+}
+#cabecalho.praticando-matematica.praticando-8 .dis-praticando {
+  color: #c6cf42;
+}
+#cabecalho.praticando-matematica.praticando-9 {
+  background-color: #f49b33;
+}
+#cabecalho.praticando-matematica.praticando-9 .dis-praticando {
+  color: #0077bb;
+}
+/* TEMPO */
+#cabecalho.tempo-ciencias {
+  background-color: #77c5b7;
+}
+#cabecalho.tempo-ciencias .dis-tempo {
+  color: #007f86;
+}
+#cabecalho.tempo-geografia {
+  background-color: #94b8da;
+}
+#cabecalho.tempo-geografia .dis-tempo {
+  color: #1c205d;
+}
+#cabecalho.tempo-historia {
+  background-color: #c781b5;
+}
+#cabecalho.tempo-historia .dis-tempo {
+  color: #6a105a;
+}
+#cabecalho.tempo-portugues {
+  background-color: #f7ab5d;
+}
+#cabecalho.tempo-portugues .dis-tempo {
+  color: #e4032f;
+}
+
+
+.capa-apoema-arte-6 {
+  background: #384a88 url(../img/capas/apoema-arte-6.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-arte-7 {
+  background: #384a88 url(../img/capas/apoema-arte-7.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-arte-8 {
+  background: #384a88 url(../img/capas/apoema-arte-8.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-arte-9 {
+  background: #384a88 url(../img/capas/apoema-arte-9.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-ciencias-6 {
+  background: #009981 url(../img/capas/apoema-ciencias-6.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-ciencias-7 {
+  background: #009981 url(../img/capas/apoema-ciencias-7.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-ciencias-8 {
+  background: #009981 url(../img/capas/apoema-ciencias-8.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-ciencias-9 {
+  background: #009981 url(../img/capas/apoema-ciencias-9.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-geografia-6 {
+  background: #79397c url(../img/capas/apoema-geografia-6.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-geografia-7 {
+  background: #79397c url(../img/capas/apoema-geografia-7.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-geografia-8 {
+  background: #79397c url(../img/capas/apoema-geografia-8.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-geografia-9 {
+  background: #79397c url(../img/capas/apoema-geografia-9.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-historia-6 {
+  background: #e84254 url(../img/capas/apoema-historia-6.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-historia-7 {
+  background: #e84254 url(../img/capas/apoema-historia-7.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-historia-8 {
+  background: #e84254 url(../img/capas/apoema-historia-8.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-historia-9 {
+  background: #e84254 url(../img/capas/apoema-historia-9.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-matematica-6 {
+  background: #00b7d7 url(../img/capas/apoema-matematica-6.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-matematica-7 {
+  background: #00b7d7 url(../img/capas/apoema-matematica-7.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-matematica-8 {
+  background: #00b7d7 url(../img/capas/apoema-matematica-8.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-matematica-9 {
+  background: #00b7d7 url(../img/capas/apoema-matematica-9.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-portugues-6 {
+  background: #1177bd url(../img/capas/apoema-portugues-6.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-portugues-7 {
+  background: #1177bd url(../img/capas/apoema-portugues-7.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-portugues-8 {
+  background: #1177bd url(../img/capas/apoema-portugues-8.png) no-repeat center;
+  background-size: 60%;
+}
+.capa-apoema-portugues-9 {
+  background: #1177bd url(../img/capas/apoema-portugues-9.png) no-repeat center;
+  background-size: 60%;
+}
+
+/*Aprendendo*/
+.capa-aprendendo-ciencias-6 {
+  background: #167abc url(../img/capas/aprendendo-ciencias-6.png) no-repeat center;
+  background-size: 80%;
+}
+.capa-aprendendo-ciencias-7 {
+  background: #df5b43 url(../img/capas/aprendendo-ciencias-7.png) no-repeat center;
+  background-size: 80%;
+}
+.capa-aprendendo-ciencias-8 {
+  background: #5c2a81 url(../img/capas/aprendendo-ciencias-8.png) no-repeat center;
+  background-size: 80%;
+}
+.capa-aprendendo-ciencias-9 {
+  background: #43388a url(../img/capas/aprendendo-ciencias-9.png) no-repeat center;
+  background-size: 80%;
+}
+
+/*Connections*/
+.capa-connections-ingles-6 {
+  background: #af93b5 url(../img/capas/connections-ingles-6.png) no-repeat top right;
+  background-size: 85%;
+}
+.capa-connections-ingles-7 {
+  background: #af93b5 url(../img/capas/connections-ingles-7.png) no-repeat top right;
+  background-size: 85%;
+}
+.capa-connections-ingles-8 {
+  background: #af93b5 url(../img/capas/connections-ingles-8.png) no-repeat top right;
+  background-size: 85%;
+}
+.capa-connections-ingles-9 {
+  background: #af93b5 url(../img/capas/connections-ingles-9.png) no-repeat top right;
+  background-size: 85%;
+}
+
+/*Praticando*/
+.capa-praticando-matematica-6 {
+  background: #985394 url(../img/capas/praticando-matematica-6.png) no-repeat bottom left;
+  background-size: 90%;
+}
+.capa-praticando-matematica-7 {
+  background: #c7ce50 url(../img/capas/praticando-matematica-7.png) no-repeat bottom left;
+  background-size: 90%;
+}
+.capa-praticando-matematica-8 {
+  background: #0080c2 url(../img/capas/praticando-matematica-8.png) no-repeat bottom left;
+  background-size: 90%;
+}
+.capa-praticando-matematica-9 {
+  background: #f79b22 url(../img/capas/praticando-matematica-9.png) no-repeat bottom left;
+  background-size: 90%;
+}
+
+/*Tempo*/
+.capa-tempo-ciencias-6 {
+  background: #77c5b7 url(../img/capas/tempo-ciencias-6.png) no-repeat center;
+  background-size: 65%;
+}
+.capa-tempo-ciencias-7 {
+  background: #77c5b7 url(../img/capas/tempo-ciencias-7.png) no-repeat center;
+  background-size: 65%;
+}
+.capa-tempo-ciencias-8 {
+  background: #77c5b7 url(../img/capas/tempo-ciencias-8.png) no-repeat center;
+  background-size: 65%;
+}
+.capa-tempo-ciencias-9 {
+  background: #77c5b7 url(../img/capas/tempo-ciencias-9.png) no-repeat center;
+  background-size: 65%;
+}
+.capa-tempo-geografia-6 {
+  background: #94b8da url(../img/capas/tempo-geografia-6.png) no-repeat center;
+  background-size: 70%;
+}
+.capa-tempo-geografia-7 {
+  background: #94b8da url(../img/capas/tempo-geografia-7.png) no-repeat center;
+  background-size: 70%;
+}
+.capa-tempo-geografia-8 {
+  background: #94b8da url(../img/capas/tempo-geografia-8.png) no-repeat center;
+  background-size: 70%;
+}
+.capa-tempo-geografia-9 {
+  background: #94b8da url(../img/capas/tempo-geografia-9.png) no-repeat center;
+  background-size: 70%;
+}
+.capa-tempo-historia-6 {
+  background: url(../img/capas/tempo-historia-6.png) no-repeat center;
+  background-size: contain;
+}
+.capa-tempo-historia-7 {
+  background: url(../img/capas/tempo-historia-7.png) no-repeat center;
+  background-size: contain;
+}
+.capa-tempo-historia-8 {
+  background: url(../img/capas/tempo-historia-8.png) no-repeat center;
+  background-size: contain;
+}
+.capa-tempo-historia-9 {
+  background: url(../img/capas/tempo-historia-9.png) no-repeat center;
+  background-size: contain;
+}
+.capa-tempo-portugues-6 {
+  background: url(../img/capas/tempo-portugues-6.png) no-repeat center;
+  background-size: contain;
+}
+.capa-tempo-portugues-7 {
+  background: url(../img/capas/tempo-portugues-7.png) no-repeat center;
+  background-size: contain;
+}
+.capa-tempo-portugues-8 {
+  background: url(../img/capas/tempo-portugues-8.png) no-repeat center;
+  background-size: contain;
+}
+.capa-tempo-portugues-9 {
+  background: url(../img/capas/tempo-portugues-9.png) no-repeat center;
+  background-size: contain;
+}
+
+@media all and (max-width: 890px), only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 1024px), only screen and (min-device-pixel-ratio: 2) and (max-width: 1024px), only screen and (min-resolution: 192dpi) and (max-width: 1024px), only screen and (min-resolution: 2dppx) and (max-width: 1024px) {
+  .capa-apoema-arte-6 {
+    background: #384a88 url(../img/capas/apoema-arte-6.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-arte-7 {
+    background: #384a88 url(../img/capas/apoema-arte-7.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-arte-8 {
+    background: #384a88 url(../img/capas/apoema-arte-8.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-arte-9 {
+    background: #384a88 url(../img/capas/apoema-arte-9.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-ciencias-6 {
+    background: #009981 url(../img/capas/apoema-ciencias-6.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-ciencias-7 {
+    background: #009981 url(../img/capas/apoema-ciencias-7.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-ciencias-8 {
+    background: #009981 url(../img/capas/apoema-ciencias-8.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-ciencias-9 {
+    background: #009981 url(../img/capas/apoema-ciencias-9.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-geografia-6 {
+    background: #79397c url(../img/capas/apoema-geografia-6.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-geografia-7 {
+    background: #79397c url(../img/capas/apoema-geografia-7.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-geografia-8 {
+    background: #79397c url(../img/capas/apoema-geografia-8.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-geografia-9 {
+    background: #79397c url(../img/capas/apoema-geografia-9.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-historia-6 {
+    background: #e84254 url(../img/capas/apoema-historia-6.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-historia-7 {
+    background: #e84254 url(../img/capas/apoema-historia-7.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-historia-8 {
+    background: #e84254 url(../img/capas/apoema-historia-8.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-historia-9 {
+    background: #e84254 url(../img/capas/apoema-historia-9.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-matematica-6 {
+    background: #00b7d7 url(../img/capas/apoema-matematica-6.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-matematica-7 {
+    background: #00b7d7 url(../img/capas/apoema-matematica-7.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-matematica-8 {
+    background: #00b7d7 url(../img/capas/apoema-matematica-8.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-matematica-9 {
+    background: #00b7d7 url(../img/capas/apoema-matematica-9.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-portugues-6 {
+    background: #1177bd url(../img/capas/apoema-portugues-6.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-portugues-7 {
+    background: #1177bd url(../img/capas/apoema-portugues-7.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-portugues-8 {
+    background: #1177bd url(../img/capas/apoema-portugues-8.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-apoema-portugues-9 {
+    background: #1177bd url(../img/capas/apoema-portugues-9.png) no-repeat center;
+    background-size: 100%;
+  }
+  
+  /*Aprendendo*/
+  .capa-aprendendo-ciencias-6 {
+    background: #167abc url(../img/capas/aprendendo-ciencias-6.png) no-repeat center;
+    background-size: 100%;
+  }
+  .capa-aprendendo-ciencias-7 {
+    background: #df5b43 url(../img/capas/aprendendo-ciencias-7.png) no-repeat center;
+    background-size: 80%;
+  }
+  .capa-aprendendo-ciencias-8 {
+    background: #5c2a81 url(../img/capas/aprendendo-ciencias-8.png) no-repeat center;
+    background-size: 80%;
+  }
+  .capa-aprendendo-ciencias-9 {
+    background: #43388a url(../img/capas/aprendendo-ciencias-9.png) no-repeat center;
+    background-size: 80%;
+  }
+  
+  /*Connections*/
+  .capa-connections-ingles-6 {
+    background: #af93b5 url(../img/capas/connections-ingles-6.png) no-repeat top right;
+    background-size: 100%;
+  }
+  .capa-connections-ingles-7 {
+    background: #af93b5 url(../img/capas/connections-ingles-7.png) no-repeat top right;
+    background-size: 85%;
+  }
+  .capa-connections-ingles-8 {
+    background: #af93b5 url(../img/capas/connections-ingles-8.png) no-repeat top right;
+    background-size: 85%;
+  }
+  .capa-connections-ingles-9 {
+    background: #af93b5 url(../img/capas/connections-ingles-9.png) no-repeat top right;
+    background-size: 85%;
+  }
+  
+  /*Praticando*/
+  .capa-praticando-matematica-6 {
+    background: #985394 url(../img/capas/praticando-matematica-6.png) no-repeat bottom left;
+    background-size: 100%;
+  }
+  .capa-praticando-matematica-7 {
+    background: #c7ce50 url(../img/capas/praticando-matematica-7.png) no-repeat bottom left;
+    background-size: 100%;
+  }
+  .capa-praticando-matematica-8 {
+    background: #0080c2 url(../img/capas/praticando-matematica-8.png) no-repeat bottom left;
+    background-size: 100%;
+  }
+  .capa-praticando-matematica-9 {
+    background: #f79b22 url(../img/capas/praticando-matematica-9.png) no-repeat bottom left;
+    background-size: 100%;
+  }
+  
+  /*Tempo*/
+  .capa-tempo-ciencias-6 {
+    background: #77c5b7 url(../img/capas/tempo-ciencias-6.png) no-repeat center;
+    background-size: 80%;
+  }
+  .capa-tempo-ciencias-7 {
+    background: #77c5b7 url(../img/capas/tempo-ciencias-7.png) no-repeat center;
+    background-size: 80%;
+  }
+  .capa-tempo-ciencias-8 {
+    background: #77c5b7 url(../img/capas/tempo-ciencias-8.png) no-repeat center;
+    background-size: 80%;
+  }
+  .capa-tempo-ciencias-9 {
+    background: #77c5b7 url(../img/capas/tempo-ciencias-9.png) no-repeat center;
+    background-size: 80%;
+  }
+  .capa-tempo-geografia-6 {
+    background: #94b8da url(../img/capas/tempo-geografia-6.png) no-repeat center;
+    background-size: 80%;
+  }
+  .capa-tempo-geografia-7 {
+    background: #94b8da url(../img/capas/tempo-geografia-7.png) no-repeat center;
+    background-size: 80%;
+  }
+  .capa-tempo-geografia-8 {
+    background: #94b8da url(../img/capas/tempo-geografia-8.png) no-repeat center;
+    background-size: 80%;
+  }
+  .capa-tempo-geografia-9 {
+    background: #94b8da url(../img/capas/tempo-geografia-9.png) no-repeat center;
+    background-size: 80%;
+  }
+  .capa-tempo-historia-6 {
+    background: url(../img/capas/tempo-historia-6.png) no-repeat center;
+    background-size: contain;
+  }
+  .capa-tempo-historia-7 {
+    background: url(../img/capas/tempo-historia-7.png) no-repeat center;
+    background-size: contain;
+  }
+  .capa-tempo-historia-8 {
+    background: url(../img/capas/tempo-historia-8.png) no-repeat center;
+    background-size: contain;
+  }
+  .capa-tempo-historia-9 {
+    background: url(../img/capas/tempo-historia-9.png) no-repeat center;
+    background-size: contain;
+  }
+  .capa-tempo-portugues-6 {
+    background: url(../img/capas/tempo-portugues-6.png) no-repeat center;
+    background-size: contain;
+  }
+  .capa-tempo-portugues-7 {
+    background: url(../img/capas/tempo-portugues-7.png) no-repeat center;
+    background-size: contain;
+  }
+  .capa-tempo-portugues-8 {
+    background: url(../img/capas/tempo-portugues-8.png) no-repeat center;
+    background-size: contain;
+  }
+  .capa-tempo-portugues-9 {
+    background: url(../img/capas/tempo-portugues-9.png) no-repeat center;
+    background-size: contain;
+  }
+}
