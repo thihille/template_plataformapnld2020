@@ -1,2 +1,2 @@
-# template-seriebrasil
-Projeto simples em Javascript do Template Série Brasil
+# template-pnld2020
+Plataforma PNLD 2020
