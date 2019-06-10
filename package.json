@@ -1,5 +1,5 @@
 {
-  "name": "template-seriebrasil",
+  "name": "template-plataformapnld2020",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thihille/template-seriebrasil.git"
+    "url": "git+https://github.com/thihille/template_plataformapnld2020.git"
   },
   "author": "Editora do Brasil",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/thihille/template-seriebrasil/issues"
-  },
-  "homepage": "https://github.com/thihille/template-seriebrasil#readme",
+  "homepage": "https://github.com/thihille/template_plataformapnld2020#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
